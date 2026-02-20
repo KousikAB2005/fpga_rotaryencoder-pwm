@@ -4,22 +4,6 @@ A collection of PWM (Pulse Width Modulation) implementations in Verilog for FPGA
 
 ---
 
-## 📁 Repository Structure
-
-```
-PWM_FPGA/
-├── README.md
-├── src/
-│   ├── pwm.v                      # Static multi-channel PWM generator
-│   └── pwm_encoder_control.v      # Encoder-controlled variable PWM
-├── sim/
-│   ├── tb_pwm.v                   # Testbench for static PWM
-│   └── tb_pwm_encoder_control.v   # Testbench for encoder PWM
-└── docs/
-    └── pwm_in_FPGA.pdf            # Project documentation
-```
-
----
 
 ## 🔧 Modules
 
