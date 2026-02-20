@@ -3,7 +3,7 @@
 A collection of PWM (Pulse Width Modulation) implementations in Verilog for FPGA, including a static multi-channel PWM generator and a rotary encoder-controlled variable duty cycle PWM.
 
 ---
-
+<img src="https://github.com/user-attachments/assets/07228f0d-46da-4016-a772-ba2cc52f3c03"/>
 
 ## 🔧 Modules
 
@@ -96,7 +96,7 @@ Import the source files into your FPGA toolchain (Xilinx Vivado / Intel Quartus)
 ## 📊 Oscilloscope Results
 
 The design was verified on hardware. The oscilloscope measurement showed:
-
+<img src="https://github.com/user-attachments/assets/645f631c-aa1b-450b-95fa-5dd2948f8886"/>
 - **Frequency:** ~390.6 kHz
 - **Channel 1 (pwm[3]):** 80% duty cycle
 - **Channel 2 (pwm[0]):** 20% duty cycle
